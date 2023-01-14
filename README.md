@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-mucahidyilmaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mucahidyilmaz/)](https://www.linkedin.com/in/mucahidyilmaz/)
 [![Twitter Badge](https://img.shields.io/badge/-muteas19-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/muteas19)](https://twitter.com/muteas19/)
-[![Discord Badge](https://img.shields.io/discord/999379126668505128?label=Discord)](https://discordapp.com/users/999379126668505128)
+[![Discord Badge](https://img.shields.io/badge/MucahidYilmaz-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/999379126668505128)
 
 #### Tech stack that I am interested in and working on:
 

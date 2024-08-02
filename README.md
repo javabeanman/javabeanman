@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mucahid Yilmaz
 
-- 🏢 I’m currently working at PayPorter
+- 🏢 I’m currently working at Migros One
 - 🌍 I'm based in Istanbul, Turkey
 - ✉️ You can contact me at mucahidyilmaz@protonmail.com
 - 😄 Pronouns: he/him
